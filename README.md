@@ -1,4 +1,4 @@
-# # Teach Arduino to my Dad
+# Teach Arduino to my Dad
 
 ## Pourquoi ce dépôt ?
 
@@ -6,7 +6,7 @@ Ce dépôt est à destination de mon père (et potentiellement de tous les père
 
 ## Memo
 
-### Modèle de fichier
+### 1. Modèle de fichier
 
 ```C
 void setup() {
@@ -19,7 +19,7 @@ void loop() {
 }
 ```
 
-### Déclaration de variables
+### 2. Déclaration de variables
 
 Une variable possède trois caractéristiques : un type, un nom et une valeur
 - Le type décrit ce que contiendra la variable : un nombre, des caractères, un booléen, etc.
@@ -45,7 +45,7 @@ Le nom d'une variable doit indiquer à quoi sert cette variable. On ne déclare 
 
 Pour affecter une variable, on utilise le caractère `=`
 
-### Bloc de code
+### 3. Bloc de code
 
 Un bloc de code est déclaré à l'aide de `{ }`, il contient un ensemble de lignes de code qui seront exécutées à la suite sans interruption possible.
 
@@ -58,7 +58,7 @@ Un bloc de code est déclaré à l'aide de `{ }`, il contient un ensemble de lig
 }
 ```
 
-### Condition
+### 4. Condition
 
 Une condition s'écrit avec le mot clé `if` et permet d'exécuter un bloc de code si et seulement si la condition est respectée
 
